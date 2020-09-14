@@ -18,5 +18,7 @@ Navbar collapses, button works, all links work. Used links to external JavaScrip
 
 Used placeholder images on contact page except for SoundCloud (active link)
 
+There are still some errors according to validator.w3.org, but I have cross-referenced these with other sources and they are allowable methods of coding in HTML
+
 ### NOTE: Unclear on the meaning of "sticky" footer. A true sticky footer would be relative in position until scrolled past, at which point it would become fixed. However, a footer by nature is at the bottom of the page, and can't be scrolled past. 
 - Colloquially, a sticky footer would "stick" to the bottom of the viewport regardless of scroll position. This is actually called a fixed footer, which I used for this assignment.
